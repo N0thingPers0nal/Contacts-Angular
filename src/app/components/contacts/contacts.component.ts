@@ -8,6 +8,7 @@ import { ContactsService } from 'src/app/services/contacts.service';
 export class ContactsComponent {
   name = '';
   phoneNo= '';
+
   email = '';
   btnText = 'Add';
   editId = 0;
